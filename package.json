@@ -1,0 +1,10 @@
+{
+  "name": "ginormous-pour",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rampage-themed head-to-head beer ranking for The Ginormous Pour tasting.",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "deploy": "npx vercel --prod"
+  }
+}
